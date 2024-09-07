@@ -2,7 +2,7 @@
 
 A simple message board application built as part of The Odin Project.
 
-## Visit the web here: [visit](mini-message-board-production-218a.up.railway.app)
+## Visit the web here: [Preview](https://mini-message-board-production-218a.up.railway.app/)
 ## Features
 
 * Users can view a list of messages
